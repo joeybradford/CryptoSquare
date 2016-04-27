@@ -66,4 +66,4 @@ For example:
     - "feedth"
     - "edogch"
     - "illout"
-  - Which yields a ciphertext beginning: "hifei acedl v…"
+  - Which yields a ciphertext beginning: "hifei acedl v…"# CryptoSquare
